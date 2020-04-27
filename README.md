@@ -16,4 +16,5 @@ and by entering from the keyboard in the program itself
 with any information, the result is written to the end of the file)
 
 Author: Kozhevnikov Artem
+
 Email: artem200110@gmail.com

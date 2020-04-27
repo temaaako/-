@@ -1,0 +1,16 @@
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.csprojAssemblyReference.cache
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\MainWindow.g.cs
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\App.g.cs
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse_MarkupCompile.cache
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse_MarkupCompile.lref
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\bin\Debug\decoderCourse.exe.config
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\bin\Debug\decoderCourse.exe
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\bin\Debug\decoderCourse.pdb
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\MainWindow.baml
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.g.resources
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.Properties.Resources.resources
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.csproj.GenerateResource.cache
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.exe
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.pdb
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\decoderCourse.csproj.ResolveComReference.cache
+C:\Users\MI\Desktop\Проекты\Курсач си шарп\decoderCourse\obj\Debug\App.baml

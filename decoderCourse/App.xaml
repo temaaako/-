@@ -1,0 +1,11 @@
+﻿<Application x:Class="decoderCourse.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:decoderCourse"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <BitmapImage x:Key="icon" UriSource="Images\icon.png"></BitmapImage>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
